@@ -1,0 +1,22 @@
+{
+  "wheel_id": 851,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-113",
+  "project": "mortgage-broker-bendigo-faq-008572cb6c104a6047309d6c3836baa8708",
+  "parent_t1_ref": "bendigohomeloanbroker-155",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo faq",
+  "intended_url": "http://mortgage-broker-bendigo-faq-008572cb6c104a6047309d6c3836baa8708.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "48d2439dc3fe8baa",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/mortgage-broker-bendigo-red-flags-19e9cb7872dd96663cd5d1fd7cd83/",
+      "anchor": "a guide to mortgage broker bendigo red flags",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
